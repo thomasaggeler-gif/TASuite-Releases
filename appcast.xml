@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TA Suite</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 23 Sep 2026 21:20:50 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Hover auf den Programm-Kacheln. Suite-Updates per Klick wie bei den anderen Apps.</p>
+<p>Erstinstallation: Zip entpacken, im Terminal <code>xattr -cr</code> auf «TA Suite.app», dann öffnen und installieren.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/TASuite-Releases/main/TA-Suite-1.0.1.zip" length="57075595" type="application/octet-stream" sparkle:edSignature="9/8TbxJxeb7kPOjfzh6SAwTxXRexxjFeXxulYjNy3ITl7JsFk2Ng1fIhMb77qq1Le/DNwULlJOvKre90f7eiDw=="/>
+        </item>
+    </channel>
+</rss>
